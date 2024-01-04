@@ -26,8 +26,8 @@ After properly recording and saving successful completion message will appear.
 EXECUTING
 To see a helper type to command line "python execute.py --help"
 To turn on executing program type to a command line:
-1. "python executet.py --file_path 'here path of json file'" - You must entry a path of existing json file to load. For example: my_folder\open_browser.json. Program will be executed once.
-2. "python detect.py --file_path 'here path of json file' --work_in_loop" - If you enter '--work_in_loop' recording from the selected file will be reapeted until you cancel it manualy.
+1. "python execute.py --file_path 'here path of json file'"    - You must entry a path of existing json file to load. For example: my_folder\open_browser.json. Program will be executed once.
+2. "python execute.py --file_path 'here path of json file' --work_in_loop"     - If you enter '--work_in_loop' recording from the selected file will be reapeted until you cancel it manualy.
 
 Now the following menu will be displayed in the console:
 Press 'F9' to start executing or if you type '--help' to see helper.
